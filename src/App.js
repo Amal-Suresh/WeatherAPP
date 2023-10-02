@@ -1,5 +1,4 @@
 
-import './App.css';
 import WeatherApp from './componets/WeatherScreen/WeatherApp';
 
 function App() {
